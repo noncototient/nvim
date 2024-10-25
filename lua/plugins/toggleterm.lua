@@ -13,6 +13,7 @@ return {
     opts = {
       open_mapping = [[<C-t>]],
       size = 20,
+      shell = "/usr/sbin/fish",
     },
   },
 }
