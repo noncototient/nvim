@@ -10,7 +10,7 @@ return {
       local vscode = require("vscode")
 
       vscode.setup({
-        transpancy = true,
+        transparent = true,
         disable_nvimtree_bg = true,
         color_overrides = {
           vscBack = "#000000",
